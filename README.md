@@ -8,9 +8,7 @@
   More stuff about me
 </summary>
 
-## My skills 📜
-
-### Web technologies
+## Web technologies
 
 - HTML
 - CSS
@@ -22,7 +20,7 @@
 - NextJS
 - Tailwind CSS
 
-### Languages 🌐
+## Languages
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
