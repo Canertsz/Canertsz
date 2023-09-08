@@ -18,6 +18,7 @@
 - Redux
 - Zustand
 - NextJS
+- Node.js
 - Tailwind CSS
 
 ## Languages
