@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,redux,tailwindcss,styledcomponents,express)](https://skillicons.dev)
 
+ Check out my blog posts [here](https://medium.com/@canertuysuz)
+
 ## Languages
 
 | Language      | Proficiency                                                               |
