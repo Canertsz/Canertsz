@@ -14,4 +14,3 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/caner-t%C3%BCys%C3%BCz-b130bb172/)
-[![Discord](https://img.shields.io/badge/Discord-Message-green)](https://discordapp.com/users/378224144539713538)
