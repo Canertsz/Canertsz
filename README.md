@@ -1,6 +1,6 @@
 ## About
 
-<strong>Front-end developer</strong> from Turkey, currently working with <strong>React/Next.js & TypeScript</strong> applications.
+<strong>Student and Front-end developer</strong> from Turkey, currently working with <strong>React/Next.js & TypeScript</strong> applications.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,redux,tailwindcss,styledcomponents,express)](https://skillicons.dev)
 
