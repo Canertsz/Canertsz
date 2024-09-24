@@ -1,7 +1,7 @@
 ## About
 
 <strong>Student and Front-end developer</strong> from Turkey, currently working with <strong>React/Next.js & TypeScript</strong> applications. <br> <br>
-I do [cybersecurity](https://tryhackme.com/p/ctsz) as a hobby and enjoy staying strong with calisthenics 🦾 <br> <br>
+I do [cybersecurity](https://tryhackme.com/p/CTSZ) as a hobby and enjoy staying strong with calisthenics 🦾 <br> <br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,redux,tailwindcss,styledcomponents,express)](https://skillicons.dev)
 
