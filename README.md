@@ -1,6 +1,6 @@
 ## About
 
-<strong>Student and Front-end developer</strong> from Turkey, currently working with <strong>React/Next.js & TypeScript</strong> applications. <br> <br>
+<strong>Student</strong> from Turkey, currently working with <strong>IOS</strong> applications. <br> <br>
 I sometimes do [Web or AD pentesting](https://tryhackme.com/p/CTSZ) as a hobby and enjoy staying strong with calisthenics 🦾 <br> <br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,redux,tailwindcss,styledcomponents,express)](https://skillicons.dev)
