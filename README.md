@@ -1,9 +1,6 @@
 ## About
 
 <strong>Student</strong> from Turkey, currently working with <strong>IOS</strong> applications. <br> <br>
-I sometimes do [cyber security challenges](https://tryhackme.com/p/CTSZ) as a hobby and enjoy staying strong with calisthenics 🦾 <br> <br>
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,redux,tailwindcss,styledcomponents,express)](https://skillicons.dev)
 
 ## Languages
 
