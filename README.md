@@ -1,6 +1,7 @@
 ## About
 
-<strong>Student</strong> from Turkey, currently working with <strong>IOS</strong> applications. <br> <br>
+<strong>I'm a Student</strong> from Üsküdar, Türkiye. <br>Currently diving deep into <strong>iOS  development</strong> — learning, building, and trying to turn my ideas into real apps. Check out my repos [here](https://github.com/Canertsz?tab=repositories)
+
 
 ## Languages
 
