@@ -11,8 +11,6 @@
 | English       | C1                                                                        |
 | German        | A2                                                                        |
 
-<br />
-
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/caner-t%C3%BCys%C3%BCz-b130bb172/)
