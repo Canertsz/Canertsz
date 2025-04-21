@@ -7,8 +7,9 @@
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C1                                                                        |
 | Turkish       | Native language                                                           |
+| English       | C1                                                                        |
+| German        | A2                                                                        |
 
 <br />
 
