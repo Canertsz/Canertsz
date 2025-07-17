@@ -1,6 +1,7 @@
 ## About
+I Started my development journey in 2020 with React. On 2024 November i switched to İOS dev.
 
-<strong>I'm a Student</strong> from Üsküdar, Türkiye. <br>Currently diving deep into <strong>iOS  development</strong> — learning, building, and trying to turn my ideas into real apps. Check out my repos [here](https://github.com/Canertsz?tab=repositories)
+Currently studying CS at Uskudar University and diving deep into <strong>iOS  development — learning, building, and trying to turn my ideas into real apps. Check out my repos [here](https://github.com/Canertsz?tab=repositories)
 
 
 ## Languages
