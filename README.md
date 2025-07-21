@@ -5,6 +5,12 @@ Currently studying CS at Uskudar University and diving deep into <strong>iOS 
 
 Check out my repos [here](https://github.com/Canertsz?tab=repositories)
 
+## Open Source Contributions
+
+So far i made below contributions on [Firefox İOS project](https://github.com/mozilla-mobile/firefox-ios)
+
+<strong>Bugfix:</strong> [Incorrect tab thumbnail after opening link in new tab and switching to it](https://github.com/mozilla-mobile/firefox-ios/pull/27913) <br/>
+<strong>Refactor:</strong> [Prevent tab switching while editing on homepage](https://github.com/mozilla-mobile/firefox-ios/pull/27664)
 
 ## Languages
 
