@@ -1,7 +1,5 @@
 ## About me
 
-I started my development journey in 2020 with React. On 2024 November i switched to İOS dev.
-
 Currently studying CS at Uskudar University and building <strong>İOS 🖤 apps.</strong>
 
 ## Open Source Contributions
