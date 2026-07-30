@@ -2,7 +2,7 @@
 
 Currently studying CS at Uskudar University and building <strong>İOS 🖤 apps.</strong>
 
-Please check out my [AppStore Developer profile](https://apps.apple.com/tr/developer/caner-tuysuz/id1847130194) since most of my apps are closed source and private on GitHub
+Also check out my [AppStore Developer profile](https://apps.apple.com/tr/developer/caner-tuysuz/id1847130194) since some of my apps are closed source and private on GitHub
 
 ## Open Source Contributions
 
