@@ -6,10 +6,10 @@ Also check out my [AppStore Developer profile](https://apps.apple.com/tr/develop
 
 ## Open Source Contributions
 
-So far i made below contributions on [Firefox İOS project](https://github.com/mozilla-mobile/firefox-ios)
+I made below contributions on [Firefox İOS project](https://github.com/mozilla-mobile/firefox-ios)
 
-<strong>Bugfix:</strong> [Incorrect tab thumbnail after opening link in new tab and switching to it](https://github.com/mozilla-mobile/firefox-ios/pull/27913) <br/>
-<strong>Refactor:</strong> [Prevent tab switching while editing on homepage](https://github.com/mozilla-mobile/firefox-ios/pull/27664)
+[Refactor FXIOS-27850](https://github.com/mozilla-mobile/firefox-ios/pull/27913) <br/>
+[Refactor FXIOS-27070](https://github.com/mozilla-mobile/firefox-ios/pull/27664)
 
 ## Languages
 
