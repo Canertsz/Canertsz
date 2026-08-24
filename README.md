@@ -1,6 +1,6 @@
 ## About me
 
-Currently studying CS at Uskudar University and building <strong>İOS 🖤 apps.</strong>
+Currently studying CS at Uskudar University and building <strong>iOS 🖤 apps.</strong>
 
 Also check out my [App Store Developer profile](https://apps.apple.com/tr/developer/caner-tuysuz/id1847130194) since some of my apps are closed source and private on GitHub
 
